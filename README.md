@@ -2,7 +2,7 @@
     <img src="https://telegra.ph/file/1e66c0e9608e8141179c3.png">
 </p>
 
-# Login UI By Rachit Pal
+# Login Form UI By Rachit Pal
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-java.svg)](https://www.java.com/en/)
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Dank-del/) <br>
