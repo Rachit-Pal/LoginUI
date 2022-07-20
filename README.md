@@ -10,7 +10,7 @@
 
 ## Glassmorphism Login Form HTML CSS
 
-Welcome to this Repository. Here, we will explore how to create Glassmorphism Login Form. We will use HTML & CSS  for this Glassmorphism Form. 
+Welcome to this Repository. Here, we will explore how to create Glassmorphism Login Form. We will use HTML & CSS for this Glassmorphism Form. 
 Hope you like this Design, give it a star.
 
 ### This Repository is created by [Rachit Pal](https://www.github.com/Rachit-Pal/)
